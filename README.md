@@ -10,7 +10,7 @@ Microsoft Excel
 ### Data  Cleaning
 The data was first cleaned and thereafter converted into a table for proper analysis.
 ###  Exploratory Data Analysis
- This was done on the Daata to answer the folowing questions
+ This was done on the Data to answer the folowing questions
   1. What is the average discount percentage per product category?
   2. How many product are  listed  under each category?
   3. Which product have the highest average ratings?
