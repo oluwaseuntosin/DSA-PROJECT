@@ -15,6 +15,15 @@ The data was first cleaned and thereafter converted into a table for proper anal
   2. How many product are  listed  under each category?
   3. Which product have the highest average ratings?
   4. Which product have the highest number of review?
+### Data Visualization
+
+
+
+
+
+
+
+
 
 
 
